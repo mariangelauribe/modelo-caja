@@ -1,0 +1,13 @@
+h1 {
+     border: 1px dashed black;
+     text-align: center;
+     background: white;
+     padding: 10px;
+  }
+ div {
+     background: #F5D0A9;
+     padding: 10px 18px 30px 100px;
+     border-width: 8px 4px;
+     border-color: #A901DB;
+     border-style: solid;
+ }
